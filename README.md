@@ -98,12 +98,3 @@ I am an undergraduate student pursuing **Data Science** at **Chitkara University
 ─────────────────────────────────────────────────────────────
 [SUCCESS] Environment optimized and loaded successfully. 🚀
 ❯ _
-## 🐍 Contribution Snake
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aditya011-dev/aditya011-dev/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-</div>

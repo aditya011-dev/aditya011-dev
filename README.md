@@ -100,6 +100,8 @@ I am an undergraduate student pursuing **Data Science** at **Chitkara University
 ❯ _
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/aditya011-dev/aditya011-dev/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />

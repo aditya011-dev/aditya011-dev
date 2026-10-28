@@ -32,7 +32,7 @@ I am an undergraduate student pursuing **Data Science** at **Chitkara University
 - 🔭 **Core Interests:** Advanced Neural Architectures, Large Language Models, and Statistical Modeling.
 - 💡 **Engineering Philosophy:** Clean code, reproducible research, and robust analytical pipelines.
 - 💬 **Ask me about:** Python for data science, machine learning models, data visualization, and community design.
-- 📫 **How to reach me:** `aditya.sharma.contact@gmail.com`
+- 📫 **How to reach me:** `adityasharmaa011@gmail.com`
 - ⚡ **Fun fact:** I manage creative and event operations for large communities exceeding 400,000+ members.
 
 ---
